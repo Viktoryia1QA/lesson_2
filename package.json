@@ -1,0 +1,26 @@
+{
+  "name": "lesson_2",
+  "version": "1.0.0",
+  "description": "git",
+  "main": "first.js",
+  "scripts": {
+    "first": "node first.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktoryia1QA/lesson_2.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Viktoryia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viktoryia1QA/lesson_2/issues"
+  },
+  "homepage": "https://github.com/Viktoryia1QA/lesson_2#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "yargs": "^17.3.1"
+  }
+}
