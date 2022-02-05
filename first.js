@@ -1,4 +1,5 @@
 console.log("check PR");
+console.log("check rebase");
 
 const fse = require('fs-extra');
 
