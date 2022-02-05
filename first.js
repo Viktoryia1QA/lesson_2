@@ -1,3 +1,5 @@
+console.log("check PR");
+
 const fse = require('fs-extra');
 
 fse.ensureDirSync('./firstFolder');
