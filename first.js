@@ -14,5 +14,4 @@ fse.removeSync('./secondFolder');
 
 console.log('lesson 1 is finished');
 
-console.log('www');
 console.log("smth check");
